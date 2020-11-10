@@ -6,6 +6,8 @@ case $number in
 	;;
 	3) echo "Third"
 	;;
+	4) echo "Four"
+	;;
 	*) echo ""
 	;;
 esac
