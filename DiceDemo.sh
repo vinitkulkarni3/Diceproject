@@ -10,6 +10,8 @@ case $number in
 	;;
 	5) echo "Five"
 	;;
+	6) echo "six"
+	;;
 	*) echo ""
 	;;
 esac
